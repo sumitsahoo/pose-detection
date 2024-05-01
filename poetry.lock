@@ -201,13 +201,13 @@ tests = ["pytest", "pytest-cov", "pytest-xdist"]
 
 [[package]]
 name = "filelock"
-version = "3.13.4"
+version = "3.14.0"
 description = "A platform independent file lock."
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "filelock-3.13.4-py3-none-any.whl", hash = "sha256:404e5e9253aa60ad457cae1be07c0f0ca90a63931200a47d9b6a6af84fd7b45f"},
-    {file = "filelock-3.13.4.tar.gz", hash = "sha256:d13f466618bfde72bd2c18255e269f72542c6e70e7bac83a0232d6b1cc5c8cf4"},
+    {file = "filelock-3.14.0-py3-none-any.whl", hash = "sha256:43339835842f110ca7ae60f1e1c160714c5a6afd15a2873419ab185334975c0f"},
+    {file = "filelock-3.14.0.tar.gz", hash = "sha256:6ea72da3be9b8c82afd3edcf99f2fffbb5076335a5ae4d03248bb5b6c3eae78a"},
 ]
 
 [package.extras]
@@ -1446,13 +1446,13 @@ files = [
 
 [[package]]
 name = "ultralytics"
-version = "8.2.4"
+version = "8.2.6"
 description = "Ultralytics YOLOv8 for SOTA object detection, multi-object tracking, instance segmentation, pose estimation and image classification."
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "ultralytics-8.2.4-py3-none-any.whl", hash = "sha256:314c5e130fa9849fd53a06179704d7a42b545ed7fd5ec01741945341f383e353"},
-    {file = "ultralytics-8.2.4.tar.gz", hash = "sha256:838cc3abc5db9378d5c822bdb85bf072dadb37296fa54913b511b73b60a7cd67"},
+    {file = "ultralytics-8.2.6-py3-none-any.whl", hash = "sha256:455b55c1b028973b5ca43a2b7f1fa92ebfd66ddc38096d90fe89088ed9b71270"},
+    {file = "ultralytics-8.2.6.tar.gz", hash = "sha256:b82e77d3da0b45184866b419d6cd23eb00576adf8e6b0c024742b6880d50e6a4"},
 ]
 
 [package.dependencies]
@@ -1498,4 +1498,4 @@ zstd = ["zstandard (>=0.18.0)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "b502b78cc688caed72ca570830dd555dde51dcd948754083f09933ba4f05e086"
+content-hash = "f3901dbebd3eee18e0effc88e85d634cee93008062cb9bc704a4f6417ac0a1fa"
